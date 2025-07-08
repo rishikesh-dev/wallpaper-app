@@ -1,16 +1,43 @@
-# wallpaper_app
+# 🖼️ Flutter Wallpaper App
 
-A new Flutter project.
+A modern, lightweight wallpaper app built using Flutter and Clean Architecture principles. This app supports beautiful hero animations, dark/light themes, and fast local caching with Hive.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔥 Hero transitions for seamless wallpaper previews
+- 🌓 Light and Dark theme toggle
+- 🧭 Modern navigation using `GoRouter`
+- ⚙️ Modular code using Clean Architecture
+- 📂 Hive local storage for fast, offline-ready access
+- 🧱 Scalable and easy-to-maintain architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 What’s Included
+
+- ✅ Full Flutter source code
+- ✅ Clean Architecture structure
+- ✅ Responsive UI (mobile-first)
+- ✅ Local storage integration using Hive
+- ✅ Theme & navigation configuration
+- ✅ Ready-to-build and customize
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (latest stable)
+- Dart >= 3.0.0
+- IDE: VS Code or Android Studio
+
+### Installation
+
+```bash
+git clone https://github.com/rishikesh-dev/wallpaper-app.git
+cd wallpaper-app
+flutter pub get
+flutter run
